@@ -6,7 +6,7 @@ Nama: Dira Rohmaeni
 NIM: 312410465
 
 
-Kelas: Ti.24.A5
+Kelas: TI.24.A5
 
 ## Berikut link tugas Projrct saya
 ClickUp
